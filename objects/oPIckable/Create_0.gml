@@ -1,11 +1,11 @@
 /// @description 
+trashWeight = 0;
+trashPollution = 0;
 
-enum TYPE {
-	BANANA,
-	BOTTLE
-}
+depth = -y;
+_z = 0;
+_z_speed = -3;
+_gravity = .25;
+_can_pickup = false;
 
-enum POINTS {
-	BANANA = 10,
-	BOTTLE = 20,
-}
+global.pollutionLevel += trashPollution;

@@ -1,23 +1,33 @@
 {
-    "id": "eb1d741c-702a-4a45-82ae-a0ce17630626",
+    "id": "f1d144cc-30e6-46af-9145-5bdefa307cb2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oBottle",
+    "name": "_UIManager",
     "eventList": [
         {
-            "id": "458e75ca-e2ea-42d8-9425-612b223abe1f",
+            "id": "a0663c83-4168-454c-a8fa-c8500d745581",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "eb1d741c-702a-4a45-82ae-a0ce17630626"
+            "m_owner": "f1d144cc-30e6-46af-9145-5bdefa307cb2"
+        },
+        {
+            "id": "797b85a0-7111-4bf5-8ed5-f03f928e4fe4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "f1d144cc-30e6-46af-9145-5bdefa307cb2"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "2606240e-cb18-46f4-8bb3-80ccc7c8fe23",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0e434cc7-5ba5-47eb-956c-528788a70e81",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

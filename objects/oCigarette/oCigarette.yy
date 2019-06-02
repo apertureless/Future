@@ -1,18 +1,18 @@
 {
-    "id": "eb1d741c-702a-4a45-82ae-a0ce17630626",
+    "id": "d01c8f70-4efa-4820-9b09-1e76ed9e8dcb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oBottle",
+    "name": "oCigarette",
     "eventList": [
         {
-            "id": "458e75ca-e2ea-42d8-9425-612b223abe1f",
+            "id": "c111b1e8-e6e9-424b-8488-f89a67374eff",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "eb1d741c-702a-4a45-82ae-a0ce17630626"
+            "m_owner": "d01c8f70-4efa-4820-9b09-1e76ed9e8dcb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0e434cc7-5ba5-47eb-956c-528788a70e81",
+    "spriteId": "69f5a7c8-abb5-4dc7-a1c1-5f1826a01ebf",
     "visible": true
 }

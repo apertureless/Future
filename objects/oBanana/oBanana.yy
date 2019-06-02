@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oBanana",
     "eventList": [
-        
+        {
+            "id": "f810f750-5d7f-49a2-940d-a439a11c9dc1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "8a1956d7-58a7-4090-a4d5-9a44c4ad3446"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

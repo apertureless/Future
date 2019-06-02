@@ -1,18 +1,18 @@
 {
-    "id": "eb1d741c-702a-4a45-82ae-a0ce17630626",
+    "id": "e1bb18a2-1c72-4807-a2fd-a03634a74a62",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oBottle",
+    "name": "oCan",
     "eventList": [
         {
-            "id": "458e75ca-e2ea-42d8-9425-612b223abe1f",
+            "id": "ba307d64-3bc2-4635-992d-ddf2b99ef6bd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "eb1d741c-702a-4a45-82ae-a0ce17630626"
+            "m_owner": "e1bb18a2-1c72-4807-a2fd-a03634a74a62"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0e434cc7-5ba5-47eb-956c-528788a70e81",
+    "spriteId": "21b75ddc-0fb1-4340-9538-67f1246e5692",
     "visible": true
 }
