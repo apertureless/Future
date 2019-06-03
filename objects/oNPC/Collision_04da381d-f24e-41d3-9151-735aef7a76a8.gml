@@ -5,4 +5,5 @@ if (isCalling) {
 	isCalling = false;
 	curretnCallDuration = 0;
 	currentState = NPC.IDLE;
+	audio_play_sound(a_call_interrupt, 1, false)
 }

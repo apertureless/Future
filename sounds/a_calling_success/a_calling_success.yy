@@ -1,8 +1,8 @@
 {
-    "id": "179872c1-d45e-4873-96f2-eac53b491b2e",
+    "id": "36743490-ddcd-4e98-bbc0-550988ca9800",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "a_drop_trash",
+    "name": "a_calling_success",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.11
+    "volume": 0.03
 }
