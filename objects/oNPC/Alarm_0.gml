@@ -4,7 +4,6 @@ npcSpeed = 0;
 var idle = choose(0, 1);
 var willMakeCall = chance(0.25);
 
-show_debug_message("Will make call?" + string(willMakeCall));
 
 if (!isCalling) {
 	if (!idle) {

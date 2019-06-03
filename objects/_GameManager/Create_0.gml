@@ -9,3 +9,6 @@ enum GAME {
 }
 
 currentState = GAME.PLAYING
+gameOver = false;
+screenShot = noone;
+screenShotScale = display_get_gui_width() / view_wport[0];

@@ -1,18 +1,18 @@
 {
-    "id": "e9b2c129-fd4f-42dc-8124-cadc8f62c22c",
+    "id": "6c5042f6-0c41-4b5b-8d3a-c5d9b315e87e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "_RoomManager",
+    "name": "oMinimap",
     "eventList": [
         {
-            "id": "725fb1b0-6211-4966-b7e9-89f26168b432",
+            "id": "cfe35bd2-be4d-4e79-b239-94f2521c4136",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "e9b2c129-fd4f-42dc-8124-cadc8f62c22c"
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "6c5042f6-0c41-4b5b-8d3a-c5d9b315e87e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
