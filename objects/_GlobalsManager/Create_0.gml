@@ -6,7 +6,7 @@ global.oneSecond = game_get_speed(gamespeed_fps);
 #endregion
 
 #region UI - Pollution
-global.maxPollutionLevel = 10;
+global.maxPollutionLevel = 50;
 global.pollutionLevel = 0;
 global.collectedTrash = 0;
 #endregion
