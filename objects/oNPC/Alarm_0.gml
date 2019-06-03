@@ -13,6 +13,7 @@ if (!isCalling) {
 		currentState = NPC.MOVING;
 	} else {
 		if (willMakeCall) {
+			audio_play_sound(a_calling, 2, false);
 			currentState = NPC.CALLING;
 		} else {
 			currentState = NPC.IDLE;

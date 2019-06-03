@@ -3,6 +3,4 @@
 
 // Inherit the parent event
 event_inherited();
-
-trashWeight = 2;
-trashPollution = 4;
+addTrash(4, 2);

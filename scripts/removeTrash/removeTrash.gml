@@ -1,0 +1,1 @@
+global.pollutionLevel -= trashPollution;

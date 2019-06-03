@@ -8,4 +8,4 @@ _z_speed = -3;
 _gravity = .25;
 _can_pickup = false;
 
-global.pollutionLevel += trashPollution;
+audio_play_sound(a_drop_trash, 2, false);

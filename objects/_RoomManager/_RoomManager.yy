@@ -5,16 +5,6 @@
     "name": "_RoomManager",
     "eventList": [
         {
-            "id": "a9cd61b4-e4e6-417d-9c9e-4a5cc2c6cfba",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 32,
-            "eventtype": 9,
-            "m_owner": "e9b2c129-fd4f-42dc-8124-cadc8f62c22c"
-        },
-        {
             "id": "725fb1b0-6211-4966-b7e9-89f26168b432",
             "modelName": "GMEvent",
             "mvc": "1.0",
