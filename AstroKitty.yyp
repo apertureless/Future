@@ -742,6 +742,25 @@
             }
         },
         {
+            "Key": "4fa15250-f7fa-49fd-a748-64af6aefdf93",
+            "Value": {
+                "id": "4655084b-d75e-48e6-a589-e8b47214efb7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/4fa15250-f7fa-49fd-a748-64af6aefdf93.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "52bad95e-0d25-48f0-b78a-ea4798718dca",
             "Value": {
                 "id": "d735b27b-d013-4bd4-adbb-9f6fa932baaf",
@@ -1160,6 +1179,25 @@
             }
         },
         {
+            "Key": "85e2ae6c-5c08-49ad-8d17-74798b48c56f",
+            "Value": {
+                "id": "dc22ff1f-1e56-4990-bbd1-0629fa988e93",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oSpawnPoint\/oSpawnPoint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "88d878a5-0d69-4dd5-a251-7f6bf81603f2",
             "Value": {
                 "id": "84a235cc-ab41-456b-9ae0-8fa0afb6ecfa",
@@ -1290,6 +1328,25 @@
                 ],
                 "resourcePath": "sprites\/s_shadow_small\/s_shadow_small.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9a20eff9-c4b1-4588-ae02-de997d5800e6",
+            "Value": {
+                "id": "ee7fca33-3773-4dd1-9e40-aa3728dd9c17",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/spawnEnemy\/spawnEnemy.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2047,6 +2104,7 @@
         "9c45d077-ef96-4e67-be84-b50f0bb9b392",
         "cbf0d929-7113-4662-ae53-372b73801b18",
         "04fd163f-292a-48b4-8840-d0ff55c2253e",
+        "9a20eff9-c4b1-4588-ae02-de997d5800e6",
         "52bad95e-0d25-48f0-b78a-ea4798718dca",
         "6eea2bde-1a9d-46b6-ab4c-77cffc511c63"
     ],

@@ -1,6 +1,6 @@
 /// @description 
 depth = -y;
-hasQuest = irandom(1);
+hasQuest = false;
 questMark = noone;
 
 image_speed = 0;
