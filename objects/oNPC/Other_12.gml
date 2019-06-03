@@ -1,6 +1,6 @@
 /// @description Calling State
 
-image_speed = 0.3;
+image_speed = 0.5;
 
 _y = y;
 isCalling = true;
@@ -11,4 +11,7 @@ shift = amplitute * dsin(t);
 _y += vspeed;
 curretnCallDuration += 1;
 
-alarm[1] = maxCallDuration;
+// Reset Calling Alarm
+if (alarm[1] < 0) {
+	alarm[1] = maxCallDuration;
+}

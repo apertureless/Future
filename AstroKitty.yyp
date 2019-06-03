@@ -799,6 +799,25 @@
             }
         },
         {
+            "Key": "6bd1ff24-4025-4048-96e4-afb5e155cc23",
+            "Value": {
+                "id": "8fb84399-dfb6-43c3-b405-c99083351efa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/6bd1ff24-4025-4048-96e4-afb5e155cc23.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6dd1ee8c-e348-40b7-809c-bfb3fb3eef8c",
             "Value": {
                 "id": "0c0cf081-0e9b-42e6-80c8-6463347e09dc",
@@ -1024,6 +1043,25 @@
                 ],
                 "resourcePath": "objects\/oBanana\/oBanana.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ca321ad-2e69-48fb-bdd8-7d8bb1ed0a57",
+            "Value": {
+                "id": "ab1aa62e-f113-4332-a40d-94e2993cebd8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_scumbag_calling_left\/s_scumbag_calling_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

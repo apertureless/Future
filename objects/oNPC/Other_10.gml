@@ -11,3 +11,7 @@ if (alarm[0] <= 0 && !isCalling) {
 }
 
 */
+
+if (alarm[1] < 0 && alarm[0] < 0) {
+	alarm[0] = random_range(2, 4) * global.oneSecond;
+}

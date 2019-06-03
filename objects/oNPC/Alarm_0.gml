@@ -1,9 +1,10 @@
 /// @description Idle Alarm
-show_debug_message("Inside Idle Alarm");
 npcSpeed = 0;
 
 var idle = choose(0, 1);
 var willMakeCall = chance(0.25);
+
+show_debug_message("Will make call?" + string(willMakeCall));
 
 if (!isCalling) {
 	if (!idle) {
@@ -18,9 +19,5 @@ if (!isCalling) {
 		}
 		
 	}
-}
-
-if (currentState != NPC.CALLING) {
-	alarm[0] = random_range(2, 4) * global.oneSecond;
 }
 

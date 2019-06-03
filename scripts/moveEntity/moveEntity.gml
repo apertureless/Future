@@ -14,7 +14,6 @@ var targetX = x + (sign(xSpeed) * 4);
 
 // Check if Player Collides with the collider
 if (place_meeting(targetX, y, oSolid)) {
-	show_debug_message("got stuck")
 	
 	/*
 	while(!place_meeting((x + sign(xSpeed) * 2), y, oSolid)) {
@@ -63,8 +62,6 @@ if (place_meeting(x, y + (sign(ySpeed) * 4), oSolid)) {
 	
 	_direction = random(360)
 	get_direction_facing(_direction);
-	show_debug_message(_direction)
-	show_debug_message(_directionArg)
 	
 } else {
 	get_direction_facing(_directionArg);
