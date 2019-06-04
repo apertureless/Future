@@ -21,5 +21,4 @@ currentState = NPC.IDLE;
 // Set idle alarm
 alarm[0] = random_range(0, 1) * global.oneSecond;
 // Set trash alarm
-alarm[2] = random_range(4, 7) * global.oneSecond;
-//alarm[1] = random_range(2, 3) * global.oneSecond;
+alarm[2] = random_range(5, 7) * global.oneSecond;

@@ -210,6 +210,25 @@
             }
         },
         {
+            "Key": "0fe7a35d-cc4b-498f-a257-a75e6e56779f",
+            "Value": {
+                "id": "43aca63d-4d00-46a2-881b-593264ca6a1d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/a_intro\/a_intro.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "15a540a0-2f88-47aa-a32a-32e7260aa2c1",
             "Value": {
                 "id": "18d59e90-14d9-4924-be5a-a670a1e8c30b",
