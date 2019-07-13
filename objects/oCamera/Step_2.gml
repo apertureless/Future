@@ -10,4 +10,5 @@ y = round_n(y, 1/_scale);
 x = clamp(x, _width / 2, room_width - _width / 2);
 y = clamp(y, _height / 2, room_height - _height / 2);
 
+
 camera_set_view_pos(view_camera[0], x - _width / 2, y - _height / 2);

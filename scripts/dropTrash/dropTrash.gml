@@ -21,4 +21,5 @@ if (shouldDrop) {
 	}
 	
 	instance_create_layer(x, y, "Instances", dropObject);
+	
 }
