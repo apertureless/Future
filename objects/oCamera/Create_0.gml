@@ -7,3 +7,7 @@ _width = camera_get_view_width(view_camera[0]);
 _height = camera_get_view_height(view_camera[0]);
 _scale = view_wport[0] / _width;
 
+_shakeLength = 0;
+_shakeIntensity = 0;
+_shakeRemain = 0;
+_buffer = 32;

@@ -52,11 +52,8 @@ textY = paddingBig *3;
 
 draw_text(textX, textY, string(pollutionPercentage));
 
-
-
-#endregion
-
 */
+#endregion
 
 #region Collected Trash
 #endregion
